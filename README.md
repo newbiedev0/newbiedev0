@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on anything that i possibly can
 - 📫 How to reach me will be mail
-- 😄 Pronouns: ...
 - ⚡ Fun fact: having none of these is the fate of a programmer
 
 <!---
