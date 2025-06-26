@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @newbiedev0
-- 👀 I’m interested in devops and java
+- 👀 I’m interested in datascience , core java, devops
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on anything that i possibly can
 - 📫 How to reach me will be mail
